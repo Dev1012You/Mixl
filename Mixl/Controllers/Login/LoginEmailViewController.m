@@ -3,7 +3,7 @@
 //  Mixl
 //
 //  Created by admin on 4/7/16.
-//  Copyright © 2016 Brani. All rights reserved.
+//  Copyright © 2016 John. All rights reserved.
 //
 
 #import "LoginEmailViewController.h"

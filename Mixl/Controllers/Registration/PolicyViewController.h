@@ -2,8 +2,8 @@
 //  PolicyViewController.h
 //  Mixl
 //
-//  Created by Branislav on 4/27/16.
-//  Copyright © 2016 Brani. All rights reserved.
+//  Created by John Pacheco on 4/27/16.
+//  Copyright © 2016 John. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

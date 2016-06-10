@@ -2,7 +2,7 @@
 //  LeftPanelViewController.h
 //  DomumLink
 //
-//  Created by Branislav on 1/15/15.
+//  Created by John Pacheco on 1/15/15.
 //  Copyright (c) 2015 Petr. All rights reserved.
 //
 

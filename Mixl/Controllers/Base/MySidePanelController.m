@@ -2,7 +2,7 @@
 //  MySidePanelController.m
 //  CustomKeyboardGallery
 //
-//  Created by Branislav on 7/25/14.
+//  Created by John Pacheco on 7/25/14.
 //  Copyright (c) 2014 UruCode. All rights reserved.
 //
 

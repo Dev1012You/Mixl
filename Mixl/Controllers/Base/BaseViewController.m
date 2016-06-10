@@ -2,7 +2,7 @@
 //  WFBaseViewController.m
 //  Woof
 //
-//  Created by Branislav on 1/9/15.
+//  Created by John Pacheco on 1/9/15.
 //  Copyright (c) 2015 Silver. All rights reserved.
 //
 

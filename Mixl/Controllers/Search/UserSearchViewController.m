@@ -2,8 +2,8 @@
 //  UserSearchViewController.m
 //  Mixl
 //
-//  Created by Branislav on 4/10/16.
-//  Copyright © 2016 Brani. All rights reserved.
+//  Created by John Pacheco on 4/10/16.
+//  Copyright © 2016 John. All rights reserved.
 //
 
 #import "UserSearchViewController.h"
